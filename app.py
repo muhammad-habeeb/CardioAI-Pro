@@ -6,19 +6,13 @@ import plotly.graph_objects as go
 
 
 
-
-
-
-
-
-
 # -------------------------------
 # Page configuration
 # -------------------------------
 
 st.set_page_config(
     page_title="CardioAI",
-    page_icon="❤️",
+    page_icon="🫀",
     layout="wide"
 )
  
@@ -394,7 +388,7 @@ def make_contribution_chart(model, input_dict):
 # Sidebar
 # ------------------------------------------------------------------
 with st.sidebar:
-    st.markdown("## ❤️ About this tool")
+    st.markdown("## 🫀 About this tool")
     st.markdown(
         """
 This application estimates **heart attack risk**
@@ -423,7 +417,7 @@ an estimated risk level with supporting explanations.
 # ------------------------------------------------------------------
 st.markdown("""
 <div class="header-card">
-    <h1>❤️ Heart Attack Risk Predictor</h1>
+    <h1>🫀 Heart Attack Risk Predictor</h1>
     <p>Enter the patient's clinical measurements below to estimate cardiovascular risk using a machine learning model.</p>
 </div>
 """, unsafe_allow_html=True)
