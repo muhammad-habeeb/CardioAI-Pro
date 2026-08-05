@@ -397,27 +397,24 @@ with st.sidebar:
     st.markdown("## ❤️ About this tool")
     st.markdown(
         """
-This app estimates **heart attack (CVD) risk** using a
-**Logistic Regression** model trained on the NHANES
-cardiovascular dataset.
- 
-**Model inputs (7 features):**
-- Age
-- BMI
-- Systolic & Diastolic Blood Pressure
-- Total Cholesterol
-- C-Reactive Protein (CRP)
-- Waist Circumference
+This application estimates **heart attack risk**
+based on the health measurements provided by the user.
+
+Enter the required health information and receive
+an estimated risk level with supporting explanations.
 """
     )
+
     st.markdown("---")
     st.markdown("### ⚠️ Disclaimer")
+
     st.info(
         "This tool is an **academic / educational project**. "
-        "It is **not** a medical device and must **not** be used "
+        "It is **not a medical device** and must **not be used "
         "for real diagnosis or treatment decisions. Always consult "
         "a qualified healthcare professional."
     )
+
     st.markdown("---")
     st.caption("Final year B.Sc. CS project · NHANES CVD dataset · Streamlit deployment")
  
