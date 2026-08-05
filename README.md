@@ -1,4 +1,4 @@
-# ❤️ CardioAI – Intelligent Heart Attack Risk Prediction
+# 🫀 CardioAI – Intelligent Heart Attack Risk Prediction
 
 CardioAI is a modern machine learning web application that estimates an individual's heart attack (cardiovascular disease) risk using clinical health measurements. The application combines a Logistic Regression model with an interactive dashboard to provide an easy-to-understand risk assessment and a personalized AI-generated health explanation.
 
@@ -8,7 +8,7 @@ This project was developed as an educational machine learning application using 
 
 ## 🚀 Features
 
-* ❤️ Heart attack risk prediction using Machine Learning
+* 🫀 Heart attack risk prediction using Machine Learning
 * 📊 Risk probability displayed with an interactive gauge chart
 * 📈 Feature contribution analysis showing how each health factor influences the prediction
 * 🤖 AI-generated health explanation based on patient measurements
