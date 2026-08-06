@@ -405,12 +405,12 @@ an estimated risk level with supporting explanations.
     st.info(
         "This tool is an **academic / educational project**. "
         "It is **not a medical device** and must **not be used "
-        "for real diagnosis or treatment decisions. Always consult "
+        "for real diagnosis or treatment decisions**. Always consult "
         "a qualified healthcare professional."
     )
 
     st.markdown("---")
-    st.caption("Final year B.Sc. CS project · NHANES CVD dataset · Streamlit deployment")
+    st.caption("Internship B.Sc. CS project · NHANES CVD dataset · Streamlit deployment")
  
 # ------------------------------------------------------------------
 # Header
