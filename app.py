@@ -410,7 +410,7 @@ an estimated risk level with supporting explanations.
     )
 
     st.markdown("---")
-    st.caption("Internship B.Sc. CS project · NHANES CVD dataset · Streamlit deployment")
+    st.caption("Internship BSc. CS project · NHANES CVD dataset · Streamlit deployment")
  
 # ------------------------------------------------------------------
 # Header
